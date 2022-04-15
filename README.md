@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pbGriffy3
+- 👋 Hi, I’m Patrick.
 - 👀 I’m interested in machine learning, distributed systems, and blockchain technologies.
-- 🌱 I’m currently learning about DeFi.
+- 🌱 I’m currently learning and exploring DAOs and DeFi.
 - 📫 How to reach me: griffy3eth@gmail.com, or @griffy3eth on Twitter.
 
 <!---
